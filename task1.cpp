@@ -1,18 +1,15 @@
 #include<iostream>
 using namespace std;
-int add (int num1,int num2)
+int x=10;
+void myfunction()
 {
-int sum=0;
-sum=num1+num2;
-return sum;
+    cout<<"The value of x is : "<<x;
+    int x=20;
 }
-int main() 
+main()
 {
-    int number1,number2;
-    cout<<"Enter 1st number :";
-    cin>>number1;
-    cout<<"Enter 2nd number :";
-    cin>>number2;
-    add(number1,number2);
-cout<<add(number1,number2);
+    myfunction();
+    int x=30;
+    cout<<"The value of the x is : "<<x;
+    myfunction();
 }
