@@ -1,42 +1,21 @@
 #include <iostream>
 using namespace std;
 
-int factorial(int n)
-{
-    int fact = 1;
-    for (int i = 1; i <= n; i++)
-    {
-        fact *= i;
-    }
-    return fact;
+int function(int num){
+  int n3= num%10;
+  int n1=num/100;
+ if(n1==n3){
+    cout<<"number is syymetrical";
+ }else{
+    cout<<"number is not syymetrical";
+ }
+
+    
 }
-
-bool isStrong(int num)
-{
-    int original = num;
-    int sum = 0;
-
-    while (num > 0)
-    {
-        int digit = num % 10;
-        sum += factorial(digit);
-        num /= 10;
-    }
-
-    return (sum == original);
-}
-
-int main()
-{
-    int number;
-
-    cout << "Enter a number: ";
-    cin >> number;
-
-    if (isStrong(number))
-        cout << number << " is a Strong Number.";
-    else
-        cout << number << " is NOT a Strong Number.";
-
-    return 0;
+int main(){
+    int n1;
+    cout<<"Enter the THREE digit number :";
+    cin>>n1;
+    int fucntion(n1);
+   return 0;
 }
