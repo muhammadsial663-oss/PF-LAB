@@ -1,42 +1,13 @@
-#include <iostream>
+#include<iostream>
+#include<cmath>
 using namespace std;
+main(){
 
-float calculateSalary(float base, int score, int experience)
-{
-    float bonusRate = 0.0;
+    int num1,num2;
+    cout<<"Enter the first num :";
+    cin>>num1;
+    cout<<"Enter the secound num :";
+    cin>>num2;
+    cout<<"Power of the number "<<num1<<" is :"<<pow(num1,num2);
 
-    if (score >= 90)
-        bonusRate = 0.20;
-    else if (score >= 75)
-        bonusRate = 0.10;
-    else
-        bonusRate = 0.05;
-
-    if (experience >= 5)
-        bonusRate += 0.05;
-
-    float finalSalary = base + (base * bonusRate);
-
-    return finalSalary;
-}
-
-int main()
-{
-    float base;
-    int score, experience;
-
-    cout << "Enter base salary: ";
-    cin >> base;
-
-    cout << "Enter performance score: ";
-    cin >> score;
-
-    cout << "Enter years of experience: ";
-    cin >> experience;
-
-    float result = calculateSalary(base, score, experience);
-
-    cout << "Final Salary: " << result;
-
-    return 0;
 }
