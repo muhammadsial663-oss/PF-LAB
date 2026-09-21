@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="task1.cs/task1.csproj" />
+  <Project Path="task10/task10.csproj" Id="76661ba9-bc62-4f86-b4ea-349612c227bf" />
+  <Project Path="task11/task11.csproj" Id="d53bb47a-6565-4de1-a961-bd0c0591c904" />
+  <Project Path="task12/task12.csproj" Id="f055f350-b820-42e9-b600-b3772e1dc56d" />
+  <Project Path="task13/task13.csproj" Id="8d34dc46-b254-4d40-b31d-7d8a8b92e91d" />
+  <Project Path="task14/task14.csproj" Id="51792d00-5644-4464-ac2e-d4a0bc4ca879" />
+  <Project Path="Task3/task2.csproj" Id="1d83712d-bbd4-404c-8a6e-64dc03461c7d" />
+  <Project Path="task4/task4.csproj" Id="6db067b9-4bbd-41cd-aad8-5c9d54b58025" />
+  <Project Path="task5/task5.csproj" Id="74b5e147-726b-4a24-966b-fa43a50be914" />
+  <Project Path="task6/task6.csproj" Id="d34f823b-2fee-4dd9-a502-9aceb9c7fc16" />
+  <Project Path="task7/task7.csproj" Id="205d2931-dcb1-49a1-9d35-d212f1bb98bc" />
+  <Project Path="task8/task8.csproj" Id="ea4b02ac-30c9-4a09-a457-7b6ed0322235" />
+  <Project Path="task9/task9.csproj" Id="e387f23b-221b-4922-8b63-15499e746193" />
+</Solution>
