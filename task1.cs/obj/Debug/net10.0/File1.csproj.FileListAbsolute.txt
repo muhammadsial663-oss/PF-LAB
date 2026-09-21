@@ -1,0 +1,15 @@
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\File1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\File1.AssemblyInfoInputs.cache
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\File1.AssemblyInfo.cs
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\File1.csproj.CoreCompileInputs.cache
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\bin\Debug\net10.0\File1.exe
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\bin\Debug\net10.0\File1.deps.json
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\bin\Debug\net10.0\File1.runtimeconfig.json
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\bin\Debug\net10.0\File1.dll
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\bin\Debug\net10.0\File1.pdb
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\File1.dll
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\refint\File1.dll
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\File1.pdb
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\File1.genruntimeconfig.cache
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\ref\File1.dll
+C:\Users\Bwp Computers\source\repos\task1.cs\task1.cs\obj\Debug\net10.0\File1.csproj.Up2Date
